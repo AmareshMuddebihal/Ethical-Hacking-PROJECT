@@ -15,9 +15,9 @@ This repository contains the components submitted for the *Software Engineering 
   This case study covers the implementation and analysis of dynamic testing techniques for an e-commerce platform, including a plagiarism report.
 
 - **Mini Project**  
-  - **Part A**: Software Testing for *Parabank Website*  
+  - ** A**: Software Testing for *Parabank Website*  
     Detailed analysis and testing report for the Parabank website.
-  - **Part B**: E-commerce Website - *Lifestyle Store*  
+  - ** B**: E-commerce Website - *Lifestyle Store*  
     - Developer report for the Lifestyle Store e-commerce website, including an assessment of security vulnerabilities (marked as **Extremely Vulnerable**).
 
 ## Files and Structure
